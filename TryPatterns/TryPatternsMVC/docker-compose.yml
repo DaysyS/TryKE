@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  trypatternsmvc:
+    image: trypatternsmvc
+    build:
+      context: .
+      dockerfile: TryPatternsMVC\Dockerfile
