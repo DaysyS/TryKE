@@ -9,3 +9,14 @@ D:\Dana\KE senior\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\n
 D:\Dana\KE senior\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.dll
 D:\Dana\KE senior\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.pdb
 D:\Dana\KE senior\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.csprojResolveAssemblyReference.cache
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\bin\Debug\netcoreapp2.0\TryPatternsMVC.deps.json
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\bin\Debug\netcoreapp2.0\TryPatternsMVC.runtimeconfig.json
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\bin\Debug\netcoreapp2.0\TryPatternsMVC.runtimeconfig.dev.json
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\bin\Debug\netcoreapp2.0\TryPatternsMVC.dll
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\bin\Debug\netcoreapp2.0\TryPatternsMVC.pdb
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.csproj.CoreCompileInputs.cache
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.AssemblyInfoInputs.cache
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.AssemblyInfo.cs
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.dll
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.pdb
+D:\Dana\Projects\TryPatterns\TryPatternsMVC\TryPatternsMVC\obj\Debug\netcoreapp2.0\TryPatternsMVC.csprojResolveAssemblyReference.cache

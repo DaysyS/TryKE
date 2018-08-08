@@ -13130,11 +13130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dana\\KE senior\\Projects\\TryPatterns\\TryPatternsMVC\\TryPatternsMVC\\TryPatternsMVC.csproj",
+      "projectUniqueName": "D:\\Dana\\Projects\\TryPatterns\\TryPatternsMVC\\TryPatternsMVC\\TryPatternsMVC.csproj",
       "projectName": "TryPatternsMVC",
-      "projectPath": "D:\\Dana\\KE senior\\Projects\\TryPatterns\\TryPatternsMVC\\TryPatternsMVC\\TryPatternsMVC.csproj",
+      "projectPath": "D:\\Dana\\Projects\\TryPatterns\\TryPatternsMVC\\TryPatternsMVC\\TryPatternsMVC.csproj",
       "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
-      "outputPath": "D:\\Dana\\KE senior\\Projects\\TryPatterns\\TryPatternsMVC\\TryPatternsMVC\\obj\\",
+      "outputPath": "D:\\Dana\\Projects\\TryPatterns\\TryPatternsMVC\\TryPatternsMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
